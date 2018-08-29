@@ -18,7 +18,9 @@ TBD.
 
 ## Resources
 
-TBD.
+* [Data Science Institute](https://datascience.arizona.edu/).
+
+
 
 
 
