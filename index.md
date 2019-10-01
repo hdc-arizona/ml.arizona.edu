@@ -47,6 +47,7 @@ Other ML faculty at UA
  * [Ahmad Musa](https://www.cs.arizona.edu/person/ahmad-musa)
  * [Mithun Paul Panenghat](http://www2.cs.arizona.edu/people/mithunpaul/)
  * [Mahdi Rahimi](https://www.cs.arizona.edu/person/mahdi-rahimi)
+ * [Paulo Soares](https://www.cs.arizona.edu/person/paulo-soares)
  * [Simon Swenson](https://www.cs.arizona.edu/person/simon-swenson)
  * [Zheng Tang](http://u.arizona.edu/~zhengtang/)
  * [Hoang Nguyen Hung Van](https://www.cs.arizona.edu/person/hoang-nguyen-hung-van)
