@@ -1,6 +1,6 @@
 ![](cs-logo.png "CS@UA"){width=360px}
 
-## Machine Learning at the University of Arizona
+## Machine Learning research at the University of Arizona
 
 ### Faculty
 
