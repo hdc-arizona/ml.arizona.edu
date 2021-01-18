@@ -44,7 +44,6 @@ Other ML faculty at UA
  * [Jixian Li](https://jixianli.github.io/)
  * [Zhengzhong Liang](https://zhengzhongliang.github.io/)
  * [Fan Luo](https://fan-luo.weebly.com/)
- * [Ahmad Musa](https://www.cs.arizona.edu/person/ahmad-musa)
  * [Mithun Paul Panenghat](http://www2.cs.arizona.edu/people/mithunpaul/)
  * [Mahdi Rahimi](https://www.cs.arizona.edu/person/mahdi-rahimi)
  * [Paulo Soares](https://www.cs.arizona.edu/person/paulo-soares)
@@ -59,8 +58,8 @@ Other ML faculty at UA
   * [CSC 580 Principles of Machine Learning](https://cscheid.net/courses/spr19/csc665/) by Carlos Scheidegger
   * [CSC 535 Probabilistic Graphical Models](http://kobus.ca/teaching/cs535/spring18/index.html) by Kobus Barnard
   * [CSC 665 Advanced Topics in Probabilistic Graphical Models](https://www2.cs.arizona.edu/~pachecoj/courses/csc665-1/index.html) by Jason Pacheco
-  * [CSC 665 Machine Learning Theory](https://zcc1307.github.io/csc665) by Chicheng Zhang
-  * CSC 665 Topics in Online Learning and Bandits by Kwang-Sung Jun (Spring 2020)
+  * [CSC 665 Machine Learning Theory](https://zcc1307.github.io/courses/csc665fa19/index.html) by Chicheng Zhang
+  * [CSC 665 Topics in Online Learning and Bandits](https://kwangsungjun.github.io/teach/20.1.csc665/index.html) by Kwang-Sung Jun
   * [ECE 523 Engineering Applications of Machine Learning and Data Analytics](https://ece.engineering.arizona.edu/grad-programs/courses/engineering-applications-machine-learning-and-data-analytics) by Gregory Ditzler
   * [ISTA 457/INFO 557 Neural Networks](https://ischool.arizona.edu/course/ista-457-neural-networks) by Steven Bethard
   * [INFO 521 Introduction to Machine Learning](http://w3.sista.arizona.edu/~clayton/courses/ml/index.html) by Clayton Morrison
