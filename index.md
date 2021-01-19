@@ -1,30 +1,45 @@
-![](cs-logo.png "CS@UA"){width=360px}
+![](ua-logo.png "CS@UA"){width=360px}
 
-## Machine Learning research at the University of Arizona
+## Machine Learning at the University of Arizona
+
+Machine learning at the U of Arizona consists of many labs from [Computer Science](http://cs.arizona.edu) (**CS**), [School of Information](https://ischool.arizona.edu/) (**Info**), [Electrical and Computer Engineering](https://ece.engineering.arizona.edu/) (**ECE**), [Applied Math](https://appliedmath.arizona.edu/) (**AMath**), [Statistics GIDP](https://statistics.arizona.edu/) (**Stat**), [Management Information Systems](https://eller.arizona.edu/departments-research/schools-departments/mis) (**MIS**), and [Cognitive Science GIDP](https://gidp.arizona.edu/cogsci) (**CogSci**).
 
 ### Faculty
 
-Computer Science
+We indicate the joint affiliation next to each name, which means the ability to advise students from the other department.
 
- * [Kobus Barnard](http://kobus.ca/): Computer vision, machine learning, scientific applications, multimedia data.
- * [Kwang-Sung Jun](https://kwangsungjun.github.io): Interactive machine learning, multi-armed bandits, online learning.
- * [Jason Pacheco](http://pachecoj.com/): Statistical machine learning, probabilistic graphical models, approximate inference algorithms, and information-theoretic decision making.
- * [Carlos Scheidegger](https://cscheid.net): Data visualization, data analysis, computer graphics, fairness in machine learning.
- * [Mihai Surdeanu](http://www.surdeanu.info/mihai/): Natural language processing, applied machine learning, artificial intelligence.
- * [Chicheng Zhang](https://zcc1307.github.io): Interactive machine learning, learning theory, contextual bandits, active learning.
+**CS**
 
-Affiliated faculty (can advise CS PhD students)
+ * [Kobus Barnard](http://kobus.ca/) [**Stat, ECE, AMath**]: computer vision, machine learning, scientific applications, multimedia data.
+ * [Kwang-Sung Jun](https://kwangsungjun.github.io) [**Stat, AMath**]: interactive machine learning, multi-armed bandits, online learning.
+ * [Jason Pacheco](http://pachecoj.com/) [**Stat, AMath**]: statistical machine learning, probabilistic graphical models, approximate inference algorithms, and information-theoretic decision making.
+ * [Carlos Scheidegger](https://cscheid.net): data visualization, data analysis, computer graphics, fairness in machine learning.
+ * [Mihai Surdeanu](http://www.surdeanu.info/mihai/): natural language processing, applied machine learning, artificial intelligence.
+ * [Chicheng Zhang](https://zcc1307.github.io) [**Stat, AMath**]: interactive machine learning, learning theory, contextual bandits, active learning.
 
- * [Michael (Misha) Chertkov](https://sites.google.com/site/mchertkov/), Applied Mathematics program at Mathematics.
- * [Ming Li](http://wiser.arizona.edu/mingli/index.html), Electrical and Computer Engineering.
- * [Clayton Morrison](http://w3.sista.arizona.edu/~clayton/), School of Information.
- * [Helen Zhang](https://www.math.arizona.edu/~hzhang/), GIDP (Statistics Graduate Interdisplinary Program) at Mathematics.
+**Info**
 
-Other ML faculty at UA
+ * [Steven Bethard](https://bethard.faculty.arizona.edu): natural language processing, machine learning, information extraction methods.
+ * [Peter Jansen](http://www.cognitiveai.org/): natural language processing, explanation-centered inference, inference over knowledge graphs.
+ * [Clayton Morrison](http://w3.sista.arizona.edu/~clayton/) [**CS, Stat**]: machine learning, artificial intelligence, causal inference, knowledge representation, and automated planning
 
- * [Stephen Bethard](https://bethard.faculty.arizona.edu), School of Information.
- * [Gregory Ditzler](http://gditzler.github.io/index.html), Electrical and Computer Engineering.
- * [Junming Yin](http://www.u.arizona.edu/~junmingy/), Management Information Systems.
+**ECE**
+
+ * [Gregory Ditzler](http://gditzler.github.io/index.html): data mining and applied machine learning.
+ * [Ming Li](http://wiser.arizona.edu/mingli/index.html) [**CS**]: wireless and cyber security, wireless network modeling and optimization, wireless and spectrum security, privacy-preserving data analytics, and cyber-physical system security.
+
+**AMath**
+
+ * [Michael (Misha) Chertkov](https://sites.google.com/site/mchertkov/) [**CS**]: energy systems, graphical models, stat hydro, non-eq. stat mech, fiber optics, stochastic control.
+
+**MIS**
+
+ * [Junming Yin](http://www.u.arizona.edu/~junmingy/) [**Stat**]: statistical machine learning, probabilistic modeling and inference, nonparametric and high-dimensional statistics
+
+**Stat**
+
+ * [Helen Zhang](https://www.math.arizona.edu/~hzhang/) [**AMath**]: nonparametrics, high dimensiaonal data analysis, feature selection, sparse methods, statisical machine learning, biomedical data analysis.
+
 
 [//]: # (For comments)
 
@@ -36,6 +51,7 @@ Other ML faculty at UA
  * [Computational Language Understanding (CLU) Lab](http://clulab.cs.arizona.edu/)
  * [University of Arizona NLP Cluster](http://nlp.arizona.edu/)
 
+<!--
 ### PhD Students (in CS)
 
  * [Chinmai Basavaraj](http://vision.cs.arizona.edu/~chinmaib/)
@@ -46,12 +62,12 @@ Other ML faculty at UA
  * [Fan Luo](https://fan-luo.weebly.com/)
  * [Mithun Paul Panenghat](http://www2.cs.arizona.edu/people/mithunpaul/)
  * [Mahdi Rahimi](https://www.cs.arizona.edu/person/mahdi-rahimi)
- * [Paulo Soares](https://www.cs.arizona.edu/person/paulo-soares)
  * [Simon Swenson](https://www.cs.arizona.edu/person/simon-swenson)
  * [Zheng Tang](http://u.arizona.edu/~zhengtang/)
  * [Hoang Nguyen Hung Van](https://www.cs.arizona.edu/person/hoang-nguyen-hung-van)
  * [Manujinda Wathugala](https://www.cs.arizona.edu/person/manujinda-wathugala)
  * [Ariyan Zarei](http://www.ariyanzarei.com/)
+ -->
 
 ### Courses
 
@@ -61,14 +77,8 @@ Other ML faculty at UA
   * [CSC 665 Machine Learning Theory](https://zcc1307.github.io/courses/csc665fa19/index.html) by Chicheng Zhang
   * [CSC 665 Topics in Online Learning and Bandits](https://kwangsungjun.github.io/teach/20.1.csc665/index.html) by Kwang-Sung Jun
   * [ECE 523 Engineering Applications of Machine Learning and Data Analytics](https://ece.engineering.arizona.edu/grad-programs/courses/engineering-applications-machine-learning-and-data-analytics) by Gregory Ditzler
-  * [ISTA 457/INFO 557 Neural Networks](https://ischool.arizona.edu/course/ista-457-neural-networks) by Steven Bethard
-  * [INFO 521 Introduction to Machine Learning](http://w3.sista.arizona.edu/~clayton/courses/ml/index.html) by Clayton Morrison
+  * [ISTA 410](https://ischool.arizona.edu/course/ista-410-bayesian-modeling-and-inference)/[INFO 510 Bayesian Modeling and Inference](https://ischool.arizona.edu/course/info-510-bayesian-modeling-and-inference) by Clayton Morrison
+  * [ISTA 421](https://ischool.arizona.edu/course/ista-421-introduction-machine-learning)/[INFO 521 Introduction to Machine Learning](https://ischool.arizona.edu/course/info-521-introduction-machine-learning) by Clayton Morrison ([Fall 2018 course](http://w3.sista.arizona.edu/~clayton/courses/ml/index.html))
+  * [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557 Neural Networks](https://ischool.arizona.edu/course/info-557-neural-networks) by Steven Bethard
   * [MIS 601 Statistical Foundations of Machine Learning](https://eller.arizona.edu/programs/doctoral/mis/program/courses) by Junming Yin
   * [MATH 574M Statistical Machine Learning](http://math.arizona.edu/~hzhang/math574m.html) by Helen Zhang
-
-### Join us
-  Apply to UA's PhD programs in [Computer Science](https://www.cs.arizona.edu/graduate/prospective-students),
-  [Electrical & Computer Engineering](https://ece.engineering.arizona.edu/grad-programs/admissions),
-  [Management & Information Systems](https://eller.arizona.edu/admissions/graduate),
-   [Information](https://ischool.arizona.edu/phd-information/admissions),
-  [Statistics](https://statistics.arizona.edu/admissions).
