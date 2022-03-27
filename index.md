@@ -1,4 +1,4 @@
-![](ua-logo.png "CS@UA"){width=360px}
+<img src="./ua-logo.png" alt="CS@UA" style="width: 360px;"/>
 
 ## Machine Learning at the University of Arizona
 
