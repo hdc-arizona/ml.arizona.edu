@@ -49,6 +49,7 @@ We indicate the joint affiliation next to each name, which means the ability to 
 * [Roberto Furfaro](https://ame.engineering.arizona.edu/faculty-staff/faculty/roberto-furfaro) [**AMath**]: guidance and control of space systems, intelligent algorithms for space exploration, remote sensing of planetary bodies, model-based systems engineering applied to space missions
 
 **AME**
+
 * [Jekan Thangavelautham](http://spacetrex.arizona.edu/index.html): Machine Learning applied to concurrent design and control of space systems, Artificial Neural Networks applied to multirobot systems and swarms for planetary reconnaissance, extreme environment exploration, site clearing, open-pit mining, excavation, and construction tasks.
 
 [//]: # (For comments)
