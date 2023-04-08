@@ -19,7 +19,6 @@ We indicate the joint affiliation next to each name, which means the ability to 
  * [Kobus Barnard](http://kobus.ca/) [**Stat, ECE, AMath**]: computer vision, machine learning, scientific applications, multimedia data.
  * [Kwang-Sung Jun](https://kwangsungjun.github.io) [**Stat, AMath**]: interactive machine learning, multi-armed bandits, online learning.
  * [Jason Pacheco](http://pachecoj.com/) [**Stat, AMath**]: statistical machine learning, probabilistic graphical models, approximate inference algorithms, and information-theoretic decision making.
- * [Carlos Scheidegger](https://cscheid.net): data visualization, data analysis, computer graphics, fairness in machine learning.
  * [Mihai Surdeanu](http://www.surdeanu.info/mihai/) [**AMath**]: natural language processing, applied machine learning, artificial intelligence.
  * [Chicheng Zhang](https://zcc1307.github.io) [**Stat, AMath**]: interactive machine learning, learning theory, contextual bandits, active learning.
 
@@ -28,10 +27,10 @@ We indicate the joint affiliation next to each name, which means the ability to 
  * [Steven Bethard](https://bethard.faculty.arizona.edu) [**CS**]: natural language processing, machine learning, information extraction methods.
  * [Peter Jansen](http://www.cognitiveai.org/): natural language processing, explanation-centered inference, inference over knowledge graphs.
  * [Clayton Morrison](https://ml4ai.github.io/people/clayton/) [**CS, Stat, CogSci**]: machine learning, artificial intelligence, causal inference, knowledge representation, and automated planning
+ * [Adarsh Pyarelal](llilllhhlhhh)
 
 **ECE**
 
- * [Gregory Ditzler](http://gditzler.github.io/index.html): data mining and applied machine learning.
  * [Ming Li](http://wiser.arizona.edu/mingli/index.html) [**CS**]: wireless and cyber security, wireless network modeling and optimization, wireless and spectrum security, privacy-preserving data analytics, and cyber-physical system security.
  * [Ravi Tandon](https://ece.engineering.arizona.edu/faculty-staff/faculty/ravi-tandon): information and coding theory, wireless communications, distributed cloud storage systems, machine learning, cyber-physical systems, and wireless security (cybersecurity) and privacy
 
