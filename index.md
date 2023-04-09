@@ -28,7 +28,6 @@ We indicate the joint affiliation next to each name, which means the ability to 
 
 **ECE**
 
- * [Gregory Ditzler](http://gditzler.github.io/index.html): data mining and applied machine learning.
  * [Ming Li](http://wiser.arizona.edu/mingli/index.html) [**CS**]: wireless and cyber security, wireless network modeling and optimization, wireless and spectrum security, privacy-preserving data analytics, and cyber-physical system security.
  * [Ravi Tandon](https://ece.engineering.arizona.edu/faculty-staff/faculty/ravi-tandon): information and coding theory, wireless communications, distributed cloud storage systems, machine learning, cyber-physical systems, and wireless security (cybersecurity) and privacy
 
