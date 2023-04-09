@@ -11,6 +11,7 @@ We indicate the joint affiliation next to each name, which means the ability to 
 **CS**
 
  * [Kobus Barnard](http://kobus.ca/) [**Stat, ECE, AMath**]: computer vision, machine learning, scientific applications, multimedia data.
+ * [Lei Cao]: Systems for AI and AI for System, data management and analytics tools with SAUL properties (Scalable, Automatic, Human-in-the-loop).
  * [Kwang-Sung Jun](https://kwangsungjun.github.io) [**Stat, AMath**]: interactive machine learning, multi-armed bandits, online learning.
  * [Jason Pacheco](http://pachecoj.com/) [**Stat, AMath**]: statistical machine learning, probabilistic graphical models, approximate inference algorithms, and information-theoretic decision making.
  * [Carlos Scheidegger](https://cscheid.net): data visualization, data analysis, computer graphics, fairness in machine learning.
