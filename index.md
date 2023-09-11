@@ -1,4 +1,5 @@
 ---
+layout: bootstrap
 title: Machine Learning at the University of Arizona
 permalink: /index.html
 ---
