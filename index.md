@@ -2,7 +2,7 @@
 
 ## Machine Learning at the University of Arizona
 
-Machine learning at the U of Arizona consists of many labs from [Computer Science](http://cs.arizona.edu) (**CS**), [School of Information](https://ischool.arizona.edu/) (**Info**), [Electrical and Computer Engineering](https://ece.engineering.arizona.edu/) (**ECE**), [Applied Math](https://appliedmath.arizona.edu/) (**AMath**), [Statistics GIDP](https://statistics.arizona.edu/) (**Stat**), [Management Information Systems](https://eller.arizona.edu/departments-research/schools-departments/mis) (**MIS**), and [Cognitive Science GIDP](https://gidp.arizona.edu/cogsci) (**CogSci**).
+Machine learning at the U of Arizona consists of many labs from [Computer Science](http://cs.arizona.edu) (**CS**), [School of Information](https://ischool.arizona.edu/) (**Info**), [Electrical and Computer Engineering](https://ece.engineering.arizona.edu/) (**ECE**), [Applied Math](https://appliedmath.arizona.edu/) (**AMath**), [Statistics GIDP](https://statistics.arizona.edu/) (**Stat**), [Management Information Systems](https://eller.arizona.edu/departments-research/schools-departments/mis) (**MIS**), [Cognitive Science GIDP](https://gidp.arizona.edu/cogsci) (**CogSci**), [Aerospace and Mechanical Engineering](https://ame.engineering.arizona.edu/) (**AME**).
 
 ### Faculty
 
@@ -49,6 +49,10 @@ We indicate the joint affiliation next to each name, which means the ability to 
 **SIE**
 
 * [Roberto Furfaro](https://ame.engineering.arizona.edu/faculty-staff/faculty/roberto-furfaro): guidance and control of space systems, intelligent algorithms for space exploration, remote sensing of planetary bodies, model-based systems engineering applied to space missions
+
+**AME**
+
+* [Jekan Thangavelautham](http://spacetrex.arizona.edu/index.html): Machine Learning applied to concurrent design and control of space systems, Artificial Neural Networks applied to multirobot systems and swarms for planetary reconnaissance, extreme environment exploration, site clearing, open-pit mining, excavation, and construction tasks.
 
 [//]: # (For comments)
 
