@@ -4,7 +4,7 @@ title: Machine Learning at the University of Arizona
 permalink: /index.html
 ---
 
-![](ua-logo.png "CS@UA")
+<p><img src="ua-logo.png" title="CS@UA" width="360" /></p>
 
 ## Machine Learning at the University of Arizona
 
