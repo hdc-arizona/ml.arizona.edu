@@ -1,3 +1,8 @@
+---
+title: Machine Learning at the University of Arizona
+permalink: /index.html
+---
+
 ![](ua-logo.png "CS@UA"){width=360px}
 
 ## Machine Learning at the University of Arizona
