@@ -90,7 +90,7 @@ We indicate the joint affiliation next to each name, which means the ability to 
  -->
 
 ### Courses
-
+  * [AME 596: Machine Learning for Aerospace and Robotics Applications](https://www.dropbox.com/s/ipdjpf0a83gcmoy/AME_596_Machine_Learning_Aerospace_Robotics_Spring_2021_Syllabus_Schedule.pdf?dl=0) by Jekan Thangavelautham
   * [CSC 580 Principles of Machine Learning](https://cscheid.net/courses/spr19/csc665/) by Carlos Scheidegger
   * [CSC 535 Probabilistic Graphical Models](http://kobus.ca/teaching/cs535/spring18/index.html) by Kobus Barnard
   * [CSC 665 Advanced Topics in Probabilistic Graphical Models](https://www2.cs.arizona.edu/~pachecoj/courses/csc665-1/index.html) by Jason Pacheco
