@@ -18,7 +18,7 @@ We indicate the joint affiliation next to each name, which means the ability to 
 
  * [Kobus Barnard](http://kobus.ca/) [**Stat, ECE, AMath**]: computer vision, machine learning, scientific applications, multimedia data.
  * [Lei Cao](https://www2.cs.arizona.edu/~caolei/): Systems for AI and AI for System, data management and analytics tools with SAUL properties (Scalable, Automatic, Human-in-the-loop).
- * [Kwang-Sung Jun](https://kwangsungjun.github.io) [**Stat, AMath**]: interactive machine learning, multi-armed bandits, online learning.
+ * [Kwang-Sung Jun](https://kwangsungjun.github.io) [**Stat, AMath**]: interactive machine learning, learning theory, multi-armed bandits, online learning, confidence bounds
  * [Jason Pacheco](http://pachecoj.com/) [**Stat, AMath**]: statistical machine learning, probabilistic graphical models, approximate inference algorithms, and information-theoretic decision making.
  * [Mihai Surdeanu](http://www.surdeanu.info/mihai/): natural language processing, applied machine learning, artificial intelligence.
  * [Chicheng Zhang](https://zcc1307.github.io) [**Stat, AMath**]: interactive machine learning, learning theory, contextual bandits, active learning.
