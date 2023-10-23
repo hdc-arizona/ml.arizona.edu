@@ -20,7 +20,6 @@ We indicate the joint affiliation next to each name, which means the ability to 
  * [Lei Cao](https://www2.cs.arizona.edu/~caolei/): Systems for AI and AI for System, data management and analytics tools with SAUL properties (Scalable, Automatic, Human-in-the-loop).
  * [Kwang-Sung Jun](https://kwangsungjun.github.io) [**Stat, AMath**]: interactive machine learning, multi-armed bandits, online learning.
  * [Jason Pacheco](http://pachecoj.com/) [**Stat, AMath**]: statistical machine learning, probabilistic graphical models, approximate inference algorithms, and information-theoretic decision making.
- * [Carlos Scheidegger](https://cscheid.net): data visualization, data analysis, computer graphics, fairness in machine learning.
  * [Mihai Surdeanu](http://www.surdeanu.info/mihai/): natural language processing, applied machine learning, artificial intelligence.
  * [Chicheng Zhang](https://zcc1307.github.io) [**Stat, AMath**]: interactive machine learning, learning theory, contextual bandits, active learning.
 
