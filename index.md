@@ -28,6 +28,7 @@ We indicate the joint affiliation next to each name, which means the ability to 
 
  * [Steven Bethard](https://bethard.faculty.arizona.edu): natural language processing, machine learning, information extraction methods.
  * [Peter Jansen](http://www.cognitiveai.org/): natural language processing, explanation-centered inference, inference over knowledge graphs.
+ * [Xuan Lu](https://luxuan09.github.io/): Human-centered Data Science; Human-AI Collaboration; Causal Inference; Future of Work; Emoji
  * [Clayton Morrison](http://w3.sista.arizona.edu/~clayton/) [**CS, Stat**]: machine learning, artificial intelligence, causal inference, knowledge representation, and automated planning
  * [Adarsh Pyarelal](https://adarsh.cc/) [**CogSci**]: artificial intelligence, machine learning, applied natural language processing and dialog understanding, and scientific applications.
   
@@ -43,9 +44,8 @@ We indicate the joint affiliation next to each name, which means the ability to 
 
 **MIS**
 
+ * [Gondy Leroy](https://eller.arizona.edu/people/gondy-leroy): natural language processing and machine learning with a practical and positive impact
  * [Sudha Ram](https://eller.arizona.edu/people/sudha-ram): machine learning, AI interpretability and explainable AI, large scale network science and data mining, health care analytics, big data analytics
- * [Muhammad Taqi Raza](https://eller.arizona.edu/people/muhammad-taqi-raza): networked and systems security, internet of things, cloud computing
- * [Junming Yin](http://www.u.arizona.edu/~junmingy/) [**Stat**]: statistical machine learning, probabilistic modeling and inference, nonparametric and high-dimensional statistics
 
 
 **Stat**
