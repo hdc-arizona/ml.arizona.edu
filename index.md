@@ -1,6 +1,7 @@
+<!-- title: Machine Learning at the University of Arizona-->
 ---
 layout: page
-title: Machine Learning at the University of Arizona
+title: null
 permalink: /index.html
 ---
 
