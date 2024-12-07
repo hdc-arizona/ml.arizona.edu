@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Machine Learning at the University of Arizona
 permalink: /index.html
 ---
