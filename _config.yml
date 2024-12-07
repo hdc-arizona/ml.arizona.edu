@@ -1,4 +1,6 @@
-title: ML at University of Arizona
+# title: ML at University of Arizona
+name: ML at University of Arizona
+title: null
 email: cscheid@cs.arizona.edu
 description: A website collecting information and resources about machine learning at UA.
 #baseurl: "" # the subpath of your site, e.g. /blog
