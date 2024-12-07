@@ -3,7 +3,7 @@ email: cscheid@cs.arizona.edu
 description: A website collecting information and resources about machine learning at UA.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://ml.arizona.edu" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://hdc-arizona.github.io/ml.arizona.edu/"
+url: "https://hdc-arizona.github.io/ml.arizona.edu"
 
 # Build settings
 markdown: kramdown
