@@ -1,9 +1,10 @@
-<!-- title: Machine Learning at the University of Arizona-->
 ---
 layout: page
 title: null
 permalink: /index.html
 ---
+<!-- title: Machine Learning at the University of Arizona-->
+
 
 <p><img src="ua-logo.png" title="CS@UA" width="360" /></p>
 
