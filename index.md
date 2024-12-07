@@ -8,6 +8,7 @@ permalink: /index.html
 
 ## Machine Learning at the University of Arizona
 
+
 Machine learning at the U of Arizona consists of many labs from [Computer Science](http://cs.arizona.edu) (**CS**), [School of Information](https://ischool.arizona.edu/) (**Info**), [Electrical and Computer Engineering](https://ece.engineering.arizona.edu/) (**ECE**), [Applied Math](https://appliedmath.arizona.edu/) (**AMath**), [Statistics GIDP](https://statistics.arizona.edu/) (**Stat**), [Management Information Systems](https://eller.arizona.edu/departments-research/schools-departments/mis) (**MIS**), [Cognitive Science GIDP](https://gidp.arizona.edu/cogsci) (**CogSci**), [Aerospace and Mechanical Engineering](https://ame.engineering.arizona.edu/) (**AME**).
 
 ### Faculty
